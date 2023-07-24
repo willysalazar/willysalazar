@@ -1,4 +1,13 @@
-### Hi there 👋
+## Welcome to Willy Salazar's profile 🤖🤙 
+### I'm an experienced (+ 12 years) software engineer in test, like a QA.
+- 🔭 I’m currently working on Java projects;
+- 🌱 I’m currently learning microservices using Spring Framework;
+- 🤔 I’m looking for help mentoring other Quality Engineers with their challenges;
+- 💬 Ask me about Automation Tests, Quality, and Engineering.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willysalazar&show_icons=true&theme=tokyonight)
+
 
 <!--
 **willysalazar/willysalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
