@@ -1,5 +1,5 @@
 ## Welcome to Willy Salazar's profile 🤖🤙 
-### I'm an experienced (+ 12 years) software engineer in test, like a QA.
+### I'm an experienced (+ 11 years) software engineer in test, like a QA.
 - 🔭 I’m currently working on Java projects;
 - 🌱 I’m currently learning microservices using Spring Framework;
 - 🤔 I’m looking for help mentoring other Quality Engineers with their challenges;
