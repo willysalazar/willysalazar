@@ -1,13 +1,17 @@
-## Welcome to Willy Salazar's profile 🤖🤙 
-### I'm an experienced (+ 11 years) software engineer in test, like a QA.
-- 🔭 I’m currently working on Java projects;
-- 🌱 I’m currently learning microservices using Spring Framework;
-- 🤔 I’m looking for help mentoring other Quality Engineers with their challenges;
-- 💬 Ask me about Automation Tests, Quality, and Engineering.
+## Hi 🤖🤙, I'm Willy
+### I am a Software Engineer in Test, like a QA.
+- 🔭 I’m currently working at [Sicredi](https://www.sicredi.com.br/home/)
 
+- 🌱 I’d like to improve in JavaScript and learn Spring Framework
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willysalazar&show_icons=true&theme=tokyonight)
+- 👥 I love to be learning and helping co-workers in their careers.
 
+- 💬 Ask me about Automation Tests, Quality, and testing in general
+
+### Connect with me:
+ [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willysalazar/)
+ 
+![](https://komarev.com/ghpvc/?username=willysalazar&color=brightgreen)
 
 <!--
 **willysalazar/willysalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
